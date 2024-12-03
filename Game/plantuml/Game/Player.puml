@@ -1,0 +1,11 @@
+@startuml
+class Player {
+    + name : string
+    + coins : int = 0
+    + health : int = 10
+    + damage : int = 1
+    + armorValue : int = 0
+    + potion : int = 3
+    + weaponValue : int = 1
+}
+@enduml

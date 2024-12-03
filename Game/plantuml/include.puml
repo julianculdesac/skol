@@ -1,0 +1,8 @@
+@startuml
+!include .\\Game\Encounters.puml
+!include .\\Game\Player.puml
+!include .\\Game\Program.puml
+!include .\\Game\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.puml
+!include .\\Game\obj\Debug\net8.0\Game.AssemblyInfo.puml
+!include .\\Game\obj\Debug\net8.0\Game.GlobalUsings.g.puml
+@enduml

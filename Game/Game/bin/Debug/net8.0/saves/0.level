@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Naa</name>
+  <id>0</id>
+  <coins>11</coins>
+  <health>5</health>
+  <damage>1</damage>
+  <armorValue>0</armorValue>
+  <potion>5</potion>
+  <weaponValue>2</weaponValue>
+  <mods>0</mods>
+</Player>>

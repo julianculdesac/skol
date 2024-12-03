@@ -1,0 +1,6 @@
+@startuml
+class Encounters {
+    + {static} FirstEncounter() : void
+    + {static} Combat(random:bool, name:string, power:int, health:int) : void
+}
+@enduml

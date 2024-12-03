@@ -1,0 +1,5 @@
+@startuml
+class Program {
+}
+Program o-> "currentPlayer" Player
+@enduml

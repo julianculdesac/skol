@@ -1,0 +1,4 @@
+C:\Users\Julian\source\repos\Game\Game\obj\Debug\net5.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\source\repos\Game\Game\obj\Debug\net5.0\Game.AssemblyInfoInputs.cache
+C:\Users\Julian\source\repos\Game\Game\obj\Debug\net5.0\Game.AssemblyInfo.cs
+C:\Users\Julian\source\repos\Game\Game\obj\Debug\net5.0\Game.csproj.CoreCompileInputs.cache
